@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+body {
+    background-color: rgb(113, 186, 199);
+    width: fit-content;
+}
+
+p, h1 {
+    text-align: center;
+}
+
+form {
+    margin: 20px;
+    background-color: white;
+    padding: 15px;
+}
+
+div {
+    display: inline-block;
+    width: 50%;
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+
+.countainer {
+    width: 100%;
+}
+
+.text {
+    text-align: right;
+}
+
+.input{
+    float: right;
+    padding-left: 10px;
+}
+
+.submit {
+    display: inline;
+    margin: auto 48%;
+}
+
+
